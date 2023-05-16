@@ -51,9 +51,13 @@ for i=1:length(angle_coude_rad_x)
     Ppm = mMw*Ppw;
     segment = [Po(1:4) Pcm(1:4) Ppm(1:4)]
     segment(2,1:3)
-    %plot3(segment(1,1:3),segment(2,1:3),segment(3,1:3),"o-")   
+    plot3(segment(1,1:3),segment(2,1:3),segment(3,1:3),"o-")   
     hold on;
 end
+
+
+% on a P0 Pc(i) Pp(i)
+% AB =Pc-P0 BC=Pp-Pc
 
 
 
