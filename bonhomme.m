@@ -1,3 +1,5 @@
+clear all; close all;
+
 bras = 0.29;
 avant_bras = 0.25;
 angle_imu1 = [0 0 0];
@@ -43,6 +45,7 @@ for i=1:length(angle_coude_rad)
     hold on;
 end
 
+xlabel("Axe des x"); ylabel("Axe des y");
 
 
 

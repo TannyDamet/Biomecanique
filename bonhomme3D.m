@@ -1,3 +1,5 @@
+clear all; close all;
+
 bras = 0.29;
 avant_bras = 0.25;
 angle_imu1 = [0 0 0];
@@ -55,14 +57,23 @@ for i=1:length(angle_coude_rad_x)
     hold on;
 end
 
+xlabel("Axe des x"); ylabel("Axe des y"); zlabel("Axe des z");
 
 % on a P0 Pc(i) Pp(i)
-% AB =Pc-P0 BC=Pp-Pc
 
+C0 = Pcm-Po;
+PC = Ppm-Pcm;
 
+alpha = acos((PC'*C0)/(norm(PC')*norm(C0)));
+
+angleB_AB = conversion_rad_cos(alpha)
 
 function alphaR = conversion_deg_rad(alpha)
     alphaR = alpha *(pi/180);
+end
+
+function alphaD = conversion_rad_cos(alpha)
+    alphaD = alpha /(pi/180);
 end
 
 function Rz = rotz(alpha)
