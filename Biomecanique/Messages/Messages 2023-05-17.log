@@ -1,0 +1,61 @@
+1	14:43:27	Realtime started	
+1	14:52:43	Disconnected	
+1	14:52:43	Error(s) when in the main loop. Double-click for more information	Error(s) when in the main loop:  001 - code 08 - camera 02 (192.168.254.5) : The camera did not reply during a(n) 'set settings' operation.
+1	14:52:49	Realtime started	
+1	14:58:28	File created	
+1	14:58:28	File saved as C:\Users\Youssef ELRAYES\Documents\Biomecanique\Calibrations\20230517_145756.qca	
+1	14:58:29	Calibration started	
+1	14:58:33	Calibration finished after 4.5685 seconds	
+1	14:58:33	File saved as C:\Users\Youssef ELRAYES\Documents\Biomecanique\Calibrations\20230517_145756_FAILED.qca	
+1	14:58:39	File closed	
+1	14:58:55	Realtime started	
+1	15:00:17	File created	
+1	15:00:17	File saved as C:\Users\Youssef ELRAYES\Documents\Biomecanique\Calibrations\20230517_145946.qca	
+1	15:00:18	Calibration started	
+1	15:00:20	Calibration finished after 1.9596 seconds	
+1	15:00:20	File saved as C:\Users\Youssef ELRAYES\Documents\Biomecanique\Calibrations\20230517_145946_FAILED.qca	
+1	15:00:29	File closed	
+1	15:00:32	Realtime started	
+1	15:02:31	File created	
+1	15:02:32	File saved as C:\Users\Youssef ELRAYES\Documents\Biomecanique\Calibrations\20230517_150200.qca	
+1	15:02:32	Calibration started	
+1	15:02:42	Calibration finished after 10.4163 seconds	
+1	15:02:43	File saved as C:\Users\Youssef ELRAYES\Documents\Biomecanique\Calibrations\20230517_150200.qca	
+1	15:16:07	File closed	
+1	15:17:07	Realtime started	
+1	15:19:05	File created	
+1	15:19:06	File saved as G:\UTLN\Quaisys\Qualisys\Data\etalonnage_repos_0001.qtm	
+1	15:19:20	File closed	
+1	15:19:21	Realtime started	
+1	15:20:55	File created	
+1	15:20:56	File saved as G:\UTLN\Quaisys\Qualisys\Data\etalonnage_orthogonale_0002.qtm	
+1	15:21:07	File closed	
+1	15:21:09	Realtime started	
+1	15:22:34	File created	
+1	15:22:35	File saved as G:\UTLN\Quaisys\Qualisys\Data\etalonnage_orthogonale_genou_0003.qtm	
+1	15:23:03	File closed	
+1	15:23:05	Realtime started	
+1	15:25:00	File created	
+1	15:25:00	File saved as G:\UTLN\Quaisys\Qualisys\Data\etalonnage_salut_0004.qtm	
+1	15:25:35	File closed	
+1	15:25:36	Realtime started	
+1	15:28:10	File created	
+1	15:28:11	File saved as C:\Users\Youssef ELRAYES\Documents\Biomecanique\Data\etalonnage_impro_0005.qtm	
+1	15:33:42	File saved as C:\Users\Youssef ELRAYES\Documents\Biomecanique\Data\etalonnage_impro_0005.qtm	
+1	15:41:51	File saved as C:\Users\Youssef ELRAYES\Documents\Biomecanique\Data\etalonnage_impro_0005.qtm	
+1	15:41:51	File closed	
+1	15:41:52	File loaded from C:\Users\Youssef ELRAYES\Documents\Biomecanique\Data\etalonnage_orthogonale_0002.qtm	
+1	15:42:03	File closed	
+1	15:42:05	File loaded from C:\Users\Youssef ELRAYES\Documents\Biomecanique\Data\etalonnage_impro_0005.qtm	
+1	15:42:47	File closed	
+1	15:42:48	File loaded from C:\Users\Youssef ELRAYES\Documents\Biomecanique\Data\etalonnage_orthogonale_0002.qtm	
+1	15:43:23	File saved as C:\Users\Youssef ELRAYES\Documents\Biomecanique\Data\etalonnage_orthogonale_0002.qtm	
+1	15:43:23	File closed	
+1	15:43:24	File loaded from C:\Users\Youssef ELRAYES\Documents\Biomecanique\Data\etalonnage_orthogonale_genou_0003.qtm	
+1	15:43:38	File saved as C:\Users\Youssef ELRAYES\Documents\Biomecanique\Data\etalonnage_orthogonale_genou_0003.qtm	
+1	15:43:38	File closed	
+1	15:43:39	File loaded from C:\Users\Youssef ELRAYES\Documents\Biomecanique\Data\etalonnage_repos_0001.qtm	
+1	15:43:50	File saved as C:\Users\Youssef ELRAYES\Documents\Biomecanique\Data\etalonnage_repos_0001.qtm	
+1	15:43:50	File closed	
+1	15:43:51	File loaded from C:\Users\Youssef ELRAYES\Documents\Biomecanique\Data\etalonnage_salut_0004.qtm	
+1	15:44:09	File saved as C:\Users\Youssef ELRAYES\Documents\Biomecanique\Data\etalonnage_salut_0004.qtm	

@@ -1,0 +1,108 @@
+<QTM_Model_Ver_1.00>
+    <Body_1>
+        <Trajectories>
+            <Trajectory>
+                <Name>Othmane_epaule</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Othmane_coude</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Othmane_poignet</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>youssef_epaule</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>youssef_coude</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>youssef_poignet</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+        </Trajectories>
+        <Bones>
+            <Bone>
+                <Index Low="5" High="6"/>
+                <Color R="246" G="249" B="124"/>
+                <Length>257.293098</Length>
+                <MaxLength>257.293098</MaxLength>
+                <MinLength>257.293098</MinLength>
+                <MaxRange>44.569087</MaxRange>
+                <Creator MST="1" User="1"/>
+            </Bone>
+            <Bone>
+                <Index Low="2" High="3"/>
+                <Color R="246" G="249" B="124"/>
+                <Length>253.276818</Length>
+                <MaxLength>253.276818</MaxLength>
+                <MinLength>253.276818</MinLength>
+                <MaxRange>79.914449</MaxRange>
+                <Creator MST="1" User="1"/>
+            </Bone>
+            <Bone>
+                <Index Low="1" High="2"/>
+                <Color R="246" G="249" B="124"/>
+                <Length>270.240848</Length>
+                <MaxLength>270.240848</MaxLength>
+                <MinLength>270.240848</MinLength>
+                <MaxRange>78.349715</MaxRange>
+                <Creator MST="1" User="1"/>
+            </Bone>
+            <Bone>
+                <Index Low="4" High="5"/>
+                <Color R="246" G="249" B="124"/>
+                <Length>348.724277</Length>
+                <MaxLength>348.724277</MaxLength>
+                <MinLength>348.724277</MinLength>
+                <MaxRange>70.383421</MaxRange>
+                <Creator MST="1" User="1"/>
+            </Bone>
+            <Bone>
+                <Index Low="1" High="4"/>
+                <Color R="246" G="249" B="124"/>
+                <Length>1210.854782</Length>
+                <MaxLength>1210.854782</MaxLength>
+                <MinLength>1210.854782</MinLength>
+                <MaxRange>444.600386</MaxRange>
+                <Creator MST="1" User="0"/>
+            </Bone>
+        </Bones>
+        <Relations>
+            <Trajectory_Relation_1>
+                <System Origin="1" X-axis="2" XY-plane="4" Min="41.800537" Max="122.108239"/>
+                <Related_Trajectory Index="3" X-min="0.164577" X-max="0.999153" Y-min="0.036411" Y-max="0.951884" Z-min="-0.505006" Z-max="0.790860"/>
+                <Related_Trajectory Index="5" X-min="-0.357294" X-max="0.812331" Y-min="0.535166" Y-max="0.998582" Z-min="-0.286682" Z-max="0.036318"/>
+            </Trajectory_Relation_1>
+            <Trajectory_Relation_2>
+                <System Origin="1" X-axis="4" XY-plane="2" Min="41.800537" Max="122.108239"/>
+                <Related_Trajectory Index="3" X-min="-0.418976" X-max="0.994027" Y-min="0.102391" Y-max="0.999977" Z-min="-0.790860" Z-max="0.505006"/>
+                <Related_Trajectory Index="5" X-min="0.934065" X-max="0.996612" Y-min="-0.178954" Y-max="0.356905" Z-min="-0.036318" Z-max="0.286682"/>
+            </Trajectory_Relation_2>
+            <Trajectory_Relation_3>
+                <System Origin="2" X-axis="1" XY-plane="3" Min="37.236587" Max="175.217064"/>
+            </Trajectory_Relation_3>
+            <Trajectory_Relation_4>
+                <System Origin="2" X-axis="3" XY-plane="1" Min="37.236587" Max="175.217064"/>
+            </Trajectory_Relation_4>
+            <Trajectory_Relation_5>
+                <System Origin="4" X-axis="1" XY-plane="5" Min="13.581828" Max="126.798595"/>
+            </Trajectory_Relation_5>
+            <Trajectory_Relation_6>
+                <System Origin="4" X-axis="5" XY-plane="1" Min="13.581828" Max="126.798595"/>
+            </Trajectory_Relation_6>
+            <Trajectory_Relation_7>
+                <System Origin="5" X-axis="4" XY-plane="6" Min="42.002767" Max="172.025125"/>
+            </Trajectory_Relation_7>
+            <Trajectory_Relation_8>
+                <System Origin="5" X-axis="6" XY-plane="4" Min="42.002767" Max="172.025125"/>
+            </Trajectory_Relation_8>
+        </Relations>
+        <FilesUsed>1</FilesUsed>
+    </Body_1>
+</QTM_Model_Ver_1.00>
